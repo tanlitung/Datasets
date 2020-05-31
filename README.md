@@ -1,3 +1,3 @@
 # Datasets
 
-Just to put some datasets here so that I can load to Google Colab.
+This repository is just for dataset storage. Feel free to get the datasets here!
